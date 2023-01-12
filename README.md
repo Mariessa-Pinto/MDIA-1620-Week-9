@@ -1,5 +1,6 @@
 ## Programming Languages
-1. d
+1. HTML
+2. JavaScript
 
 ## Description
-d
+In class JavaScript and HTML examples.
